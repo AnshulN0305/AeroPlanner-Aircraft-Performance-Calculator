@@ -21,8 +21,6 @@ The application runs in the browser and is structured for static website hosting
 - [Calculation overview](#calculation-overview)
 - [Input validation and compatibility checks](#input-validation-and-compatibility-checks)
 - [Technology and project structure](#technology-and-project-structure)
-- [Run the website locally](#run-the-website-locally)
-- [Publish with GitHub Pages](#publish-with-github-pages)
 - [Limitations](#limitations)
 - [Credits](#credits)
 
